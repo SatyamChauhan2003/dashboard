@@ -1,0 +1,18 @@
+<svg width="28" height="20" viewBox="0 0 28 20" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g id="icons/flags/ic_en">
+<g id="GB">
+<rect id="Mask Copy" y="0.00976562" width="28" height="20" rx="3" fill="#0A17A7"/>
+<mask id="mask0_0_8658" style="mask-type:luminance" maskUnits="userSpaceOnUse" x="0" y="0" width="28" height="21">
+<rect id="Mask Copy_2" y="0.00976562" width="28" height="20" rx="3" fill="white"/>
+</mask>
+<g mask="url(#mask0_0_8658)">
+<path id="Rectangle 2" fill-rule="evenodd" clip-rule="evenodd" d="M-1.28226 -1.90674L10.6669 6.15306V-1.32363H17.3335V6.15306L29.2827 -1.90674L30.7739 0.304028L21.3265 6.67637H28.0002V13.343H21.3265L30.7739 19.7154L29.2827 21.9262L17.3335 13.8664V21.343H10.6669V13.8664L-1.28226 21.9262L-2.77344 19.7154L6.67395 13.343H0.000212669V6.67637H6.67395L-2.77344 0.304029L-1.28226 -1.90674Z" fill="white"/>
+<path id="Line" d="M18.668 6.34196L31.3333 -1.99023" stroke="#DB1F35" stroke-width="0.666667" stroke-linecap="round"/>
+<path id="Line Copy 2" d="M20.0127 13.7073L31.3665 21.3601" stroke="#DB1F35" stroke-width="0.666667" stroke-linecap="round"/>
+<path id="Line Copy" d="M8.00513 6.32031L-3.83789 -1.66113" stroke="#DB1F35" stroke-width="0.666667" stroke-linecap="round"/>
+<path id="Line Copy 3" d="M9.28963 13.6147L-3.83789 22.3203" stroke="#DB1F35" stroke-width="0.666667" stroke-linecap="round"/>
+<path id="Rectangle 2 Copy 3" fill-rule="evenodd" clip-rule="evenodd" d="M0 12.0098H12V20.0098H16V12.0098H28V8.00977H16V0.00976562H12V8.00977H0V12.0098Z" fill="#E6273E"/>
+</g>
+</g>
+</g>
+</svg>
